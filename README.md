@@ -11,21 +11,21 @@ El programa solicita al usuario que elija una opción de conversión entre difer
 A). **Dólar a Moneda Local**: Convierte una cantidad en dólares estadounidenses a la moneda local especificada.
 B). **Moneda Local a Dólar**: Convierte una cantidad en la moneda local especificada a dólares estadounidenses.
 
-#ejemplos 
+# ejemplos 
 
-1).Dólar ===> moneda peruana**
-2).    	moneda peruana ====> dólar
-3).    Dólar ===> peso argentino**
-4).        Peso argentino ====> dólar
-5).    Dólar ===> Real brasileño**
-6).        Real brasileño ====> dólar
-7).    Dólar ===> Peso colombiano**
-8).        Peso colombiano ====> dólar
-9).    Dólar ===> peso mexicano**
-10).        Peso mexicano ====> dólar
-11).    Dólar ===> Colón costarricense**
-12).        Colón costarricense ====> dólar
-13).      .Salir** 						
+						1).Dólar ===> moneda peruana**
+						2).    	moneda peruana ====> dólar
+						3).    Dólar ===> peso argentino**
+						4).        Peso argentino ====> dólar
+						5).    Dólar ===> Real brasileño**
+						6).        Real brasileño ====> dólar
+						7).    Dólar ===> Peso colombiano**
+						8).        Peso colombiano ====> dólar
+						9).    Dólar ===> peso mexicano**
+						10).        Peso mexicano ====> dólar
+						11).    Dólar ===> Colón costarricense**
+						12).        Colón costarricense ====> dólar
+						13).      .Salir** 						
 
 ## Requisitos
 
