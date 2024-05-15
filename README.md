@@ -13,19 +13,19 @@ B). **Moneda Local a Dólar**: Convierte una cantidad en la moneda local especif
 
 #ejemplos 
 
-	Dólar ===> moneda peruana**
-    	moneda peruana ====> dólar
-    Dólar ===> peso argentino**
-        Peso argentino ====> dólar
-    Dólar ===> Real brasileño**
-        Real brasileño ====> dólar
-    Dólar ===> Peso colombiano**
-        Peso colombiano ====> dólar
-    Dólar ===> peso mexicano**
-        Peso mexicano ====> dólar
-    Dólar ===> Colón costarricense**
-        Colón costarricense ====> dólar
-      .Salir** 						
+1).Dólar ===> moneda peruana**
+2)    	moneda peruana ====> dólar
+3)    Dólar ===> peso argentino**
+4)        Peso argentino ====> dólar
+5)    Dólar ===> Real brasileño**
+6)        Real brasileño ====> dólar
+7)    Dólar ===> Peso colombiano**
+8)        Peso colombiano ====> dólar
+9)    Dólar ===> peso mexicano**
+10)        Peso mexicano ====> dólar
+11)    Dólar ===> Colón costarricense**
+12)        Colón costarricense ====> dólar
+13)      .Salir** 						
 
 ## Requisitos
 
