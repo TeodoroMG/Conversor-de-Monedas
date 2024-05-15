@@ -13,7 +13,7 @@ B). **Moneda Local a Dólar**: Convierte una cantidad en la moneda local especif
 
 # ejemplos 
 
-						1).Dólar ===> moneda peruana**
+						1).    Dólar ===> moneda peruana**
 						2).    	moneda peruana ====> dólar
 						3).    Dólar ===> peso argentino**
 						4).        Peso argentino ====> dólar
