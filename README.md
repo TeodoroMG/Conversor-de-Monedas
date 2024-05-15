@@ -52,7 +52,8 @@ Reemplaza `YOUR-API-KEY` en el código por tu clave de API válida para la API d
 
 - El programa puede mostrar errores si la clave de API no es válida o si la API restringe el acceso.
 - Las tasas de cambio obtenidas de la API pueden no estar actualizadas en tiempo real.
-
+- 
+## Aplicación en el vídeo 
 ---
 
 
