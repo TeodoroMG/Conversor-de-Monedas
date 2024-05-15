@@ -55,4 +55,4 @@ Reemplaza `YOUR-API-KEY` en el código por tu clave de API válida para la API d
 
 ---
 
-Este sería un ejemplo básico de cómo podrías estructurar un archivo `README.md` para explicar el funcionamiento y los detalles del código proporcionado. Puedes personalizarlo según tus necesidades y agregar más información si lo consideras necesario.
+
